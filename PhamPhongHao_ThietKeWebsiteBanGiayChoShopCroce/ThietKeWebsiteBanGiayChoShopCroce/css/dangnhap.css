@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+#dangnhap{
+	background:#FFB5DA;
+	height:250px;
+	width:920px;
+	
+}
+#dangnhap>form{
+	margin-left:200px;
+}
+.tomau{
+	color:red;
+}
+form>.cach{
+	margin-left:200px;
+}
+#may{
+	margin-top:70px;
+}
+#may>img{
+	width:920px;
+	height:770px;
+}

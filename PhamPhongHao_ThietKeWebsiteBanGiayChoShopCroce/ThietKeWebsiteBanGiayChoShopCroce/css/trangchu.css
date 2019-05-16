@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0px;
+	padding:0px;
+}
+.hao{
+	font-size:40px;
+	color:#00F;
+	margin-left:350px;
+	margin-top:50px;
+	margin-bottom:20px;
+}
+.tieude{
+	color:#003;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	text-decoration:none;
+	width:200px;
+}
+.anh{
+	 width:250px;
+	 height:350px;
+}
+.vitrivanbangiatien{
+	 font-size: 15px;
+	 text-indent: 0;
+	 text-align:justify;
+	 color:red;
+}
+.haoo{
+	font-size:40px;
+	color:#00F;
+	margin-left:350px;
+	margin-top:500px;
+	margin-bottom:20px;
+}
+.haooo{
+	font-size:40px;
+	color:#00F;
+	margin-left:350px;
+	margin-top:500px;
+	margin-bottom:20px;
+}
+.haoni{
+	font-size:40px;
+	color:#00F;
+	margin-left:350px;
+	margin-top:500px;
+	margin-bottom:20px;
+}
+.canhchinh a{
+	text-decoration:none;
+}
+.canhchinh{
+	float:left;
+	margin-left:30px;
+}
+.anh{
+	transition: all 1s ease;
+	-webkit-transition: all 2s ease;
+	-moz-transition: all 2s ease;
+	-o-transition: all 2s ease;
+	border-radius:10px;
+	}
+.anh:hover{
+	transform: scale(1.2,1.2);
+	-webkit-transform: scale(1.2,1.2;
+	-moz-transform: scale(1.2,1.2);
+	-o-transform: scale(1.2,1.2);
+	-ms-transform: scale(1.2,1.2);
+	}
